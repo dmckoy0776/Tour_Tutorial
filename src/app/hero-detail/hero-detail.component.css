@@ -15,7 +15,8 @@ button {
   font-size: 1rem;
 }
 button:hover {
-  background-color: #cfd8dc;
+  color: white;
+  background-color: #1095ce;
 }
 button:disabled {
   background-color: #eee;
